@@ -1,0 +1,23 @@
+html, body {
+}
+
+body {
+
+}
+
+#logo {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#canvas {
+    margin: 0;
+    display: flex;
+
+    /* This centers our sketch horizontally. */
+    justify-content: center;
+
+    /* This centers our sketch vertically. */
+    align-items: center;
+}
